@@ -14,7 +14,7 @@
 
 1. **Clone the repo**
 ```bash
-git clone https://github.com/ramimK0bir/dubbing.git
+git clone https://github.com/ramim-kobir/dubbing.git
 ```
 
 2.**GO to the directory**
@@ -34,7 +34,7 @@ python main.py --input ./test.mp4 --lang hi --output output.mp4
 
 # Google Colab Recommendation
 
-Use [Google Colab](https://colab.research.google.com/github/ramimK0bir/dubbing/blob/v0.0.1/Dubbing.ipynb) for a better coding experience:  
+Use [Google Colab](https://colab.research.google.com/github/ramim-kobir/dubbing/blob/v0.0.1/Dubbing.ipynb) for a better coding experience:  
 - Faster execution with free GPU/TPU resources  
 - Easy access to Python and machine learning libraries  
 - Seamless cloud-based workflow with no local setup required  
